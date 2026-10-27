@@ -1,4 +1,3 @@
-# unicorn_companies
 # Unicorn Companies Data Analysis
 
 ## Project Overview
